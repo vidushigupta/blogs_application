@@ -38,7 +38,7 @@ Using it this way would not install the json-server, but you still will be able 
 - db.json file should load on browser, indicating server is available & active
 
 ## Application snapshots
-### Listing
+### `Listing`
 ![Screenshot](/images_README/screenshot_listing.png)
 #
 ### `Create Blog using form inputs`
