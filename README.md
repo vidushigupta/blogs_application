@@ -38,22 +38,22 @@ Using it this way would not install the json-server, but you still will be able 
 - db.json file should load on browser, indicating server is available & active
 
 ## Application snapshots
-### `Listing`
+### `>>Listing`
 ![Screenshot](/images_README/screenshot_listing.png)
 #
-### `Create Blog using form inputs`
+### `>>Create Blog using form inputs`
 ![Screenshot](/images_README/screenshot_create.png)
 #
-### `Show individual blog details`
+### `>>Show individual blog details`
 ![screenshot](/images_README/screenshot_details.png)
 #
-### `Error state due to network call`
+### `>>Error state due to network call`
 ![Screenshot](/images_README/screenshot_error.png)
 #
-### `Show loaing state during data is fetched over network`
+### `>>Show loaing state during data is fetched over network`
 ![Screenshot](/images_README/screenshot_loader.png)
 #
-### `If resource not found`
+### `>>If resource not found`
 ![Screenshot](/images_README/screenshot_404.png)
 #
 #
