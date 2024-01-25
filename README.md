@@ -12,7 +12,10 @@ This is a sample application, showing how to create a web application, called 'B
 - Error mechanism when resources not found
 - Asset not found state
 
+## Medium blog explaining step by step guide to create an application
 
+![Screenshot](/images_README/screenshot_medium.png)
+#
 
 ## Steps to locally run the project
 - Clone the repo
@@ -57,12 +60,13 @@ Using it this way would not install the json-server, but you still will be able 
 ![Screenshot](/images_README/screenshot_404.png)
 #
 #
-#
 # `Learning Resources`:
+https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=2
+
+https://react.dev/
+
 #
-#
-#
-# More details to regarding available `Scripts`
+# `More details`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
