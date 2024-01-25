@@ -13,6 +13,7 @@ This is a sample application, showing how to create a web application, called 'B
 - Asset not found state
 
 ## Medium blog explaining step by step guide to create an application
+- https://medium.com/@17vidushigupta/react-insights-a-simple-blogs-application-from-scratch-part-1-91700ac2e8a2
 
 ![Screenshot](/images_README/screenshot_medium.png)
 #
@@ -61,9 +62,9 @@ Using it this way would not install the json-server, but you still will be able 
 #
 #
 # `Learning Resources`:
-https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=2
+- https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=2
 
-https://react.dev/
+- https://react.dev/
 
 #
 # `More details`
